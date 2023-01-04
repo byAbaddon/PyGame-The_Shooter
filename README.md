@@ -21,7 +21,7 @@ soon
 ![3](https://user-images.githubusercontent.com/51271834/210587226-b76af481-a751-480b-a5f5-5ee37264e189.png)
 ![4](https://user-images.githubusercontent.com/51271834/210587238-8362d649-091c-43b2-9840-445abecc2102.png)
 ![5](https://user-images.githubusercontent.com/51271834/210587251-001da6a4-35cd-457b-ac96-09549e6a5f1e.png)
-![6](https://user-images.githubusercontent.com/51271834/210593790-a04f1b92-311e-4442-b19e-e40182a7eebf.png)
+![6](https://user-images.githubusercontent.com/51271834/210594333-eb68775e-ae99-4ee3-b294-e3da14619075.png)
 
 ## Prerequisites
 - [Python](https://www.python.org)
