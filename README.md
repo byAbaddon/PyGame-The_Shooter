@@ -1,14 +1,15 @@
 # PyGame-The_Shooter
 
 - A fun 2D game made with PyGame.
-- You move...
-- Endless levels
+- You move the gunner aim and shooting on different targets.
+- Training process and subsequent real mission with terrorists and hostages.
 - Great music and effects
 
 ## Playing the game
-You control the Pacman. You can make  move  by pressing the arrows (left), (right), (down), (up).
-Do not collide with ememies!
-For each grab dot and fruit you get different points.
+You control the gunner's aim.
+You can make shooting and reloading by pressing the mouse buttons (left) and (right).
+Destroy the targets in a certain time.
+For each target taken down, you get different points.
 
 ## Video intro:
 soon
