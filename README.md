@@ -12,7 +12,7 @@ Destroy the targets in a certain time.
 For each target taken down, you get different points.
 
 ## Video intro:
-soon
+(https://youtu.be/rONYF-lkHBY)
 
 ## Screenshots:
 ![1](https://user-images.githubusercontent.com/51271834/210250090-7ce7f438-0563-4b4a-85af-f8ce0c9fa674.png)
