@@ -23,6 +23,10 @@ https://youtu.be/rONYF-lkHBY
 ![5](https://user-images.githubusercontent.com/51271834/210587251-001da6a4-35cd-457b-ac96-09549e6a5f1e.png)
 ![6](https://user-images.githubusercontent.com/51271834/210594333-eb68775e-ae99-4ee3-b294-e3da14619075.png)
 
+### Download
+#### For Linux AppImage that run anywhere
+https://github.com/byAbaddon/PyGame-The_Shooter/releases/tag/The_Shooter_AppImage
+
 ## Prerequisites
 - [Python](https://www.python.org)
 - [Pygame](https://www.pygame.org/news), an open source Python library for making multimedia applications
